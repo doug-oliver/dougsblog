@@ -1,4 +1,4 @@
-baseURL = 'http://localhost:1313/'
+baseURL = 'https://doug-oliver.github.io/dougsblog/'
 languageCode = 'pt-br'
 title = 'Douglas Oliver'
 theme = 'mainroad'
