@@ -5,3 +5,4 @@ theme = 'mainroad'
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+publishDir = "docs"
