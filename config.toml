@@ -2,3 +2,6 @@ baseURL = 'https://doug-oliver.github.io/dougsblog/'
 languageCode = 'pt-br'
 title = 'Douglas Oliver'
 theme = 'mainroad'
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
